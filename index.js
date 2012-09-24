@@ -30,6 +30,13 @@ function Preloader(urls) {
 
 inherit(Preloader, Batch);
 
+/**
+ * Preload the given image `url`.
+ *
+ * @param {String} url
+ * @api public
+ */
+
 Preloader.prototype.add = function(url){
   this.urls.push(url);
   this.push(function(done){
