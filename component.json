@@ -1,0 +1,15 @@
+{
+  "name": "preloader",
+  "repo": "component/preloader",
+  "description": "Preload images",
+  "version": "0.0.1",
+  "keywords": ["preload", "preloader", "image"],
+  "dependencies": {
+    "component/batch": "*",
+    "component/inherit": "*"
+  },
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
