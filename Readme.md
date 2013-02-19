@@ -1,11 +1,10 @@
-
-# preload
+# preloader
 
   Preload images.
 
 ## Installation
 
-    $ component install component/preload
+    $ component install component/preloader
 
 ## Example
 
