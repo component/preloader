@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "keywords": ["preload", "preloader", "image"],
   "dependencies": {
-    "component/batch": "*",
+    "visionmedia/batch": "*",
     "component/inherit": "*"
   },
   "development": {},
